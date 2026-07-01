@@ -176,4 +176,4 @@ curl "https://<worker>/sub/<id>?target=clash&token=<SUB_ACCESS_TOKEN>"
 
 ## License
 
-MIT 
+MIT
